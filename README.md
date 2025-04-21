@@ -1,4 +1,4 @@
-#💫 Hi I'm Frank Ellis A. Gines
+# Hi There, I'm Frank Ellis A. Gines
 
 I'm a freelancer accepting projects from mobile app to web projects, I'm currently improving my skills in PERN stack<br>
 
