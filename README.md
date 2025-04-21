@@ -1,6 +1,6 @@
 # Hi There, I'm Frank Ellis A. Gines
 
-I'm a full stack developer and a freelancer accepting projects from mobile app to web projects. I'm happy to work with you while improving my skills throughout the journey, do not hesitate to contact me a head of time we might be having a same goal<br>
+I'm a full stack developer and a freelancer accepting projects from mobile app to web projects. I'm happy to work with you while improving my skills throughout the journey, feel free to contact me a head of time the earlier the better.<br>
 
 
 ## 🌐 Socials:
