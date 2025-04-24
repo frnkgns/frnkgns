@@ -1,4 +1,4 @@
-# Hi There, I'm Frank
+# Hi There
 
 I'm a junior full stack developer and a freelancer accepting projects from mobile app to web projects. I'm happy to work with you while improving my skills throughout the journey, feel free to contact me a head of time the earlier the better.<br>
 
