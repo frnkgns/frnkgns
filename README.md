@@ -1,6 +1,6 @@
 # Hi There
 
-I'm a junior full stack developer and a freelancer accepting projects from mobile app to web projects. I'm happy to work with you while improving my skills throughout the journey, feel free to contact me a head of time the earlier the better.<br>
+I'm a full stack developer and a freelancer accepting projects from mobile app to web projects. I'm happy to work with you while improving my skills throughout the journey, feel free to contact me a head of time the earlier the better.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/frnkgns) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ginesfrank) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gines-frank-ellis-26401a26a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frnk.dvlpr@gmail.com) 
